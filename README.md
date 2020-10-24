@@ -31,7 +31,7 @@ Aplicação onde se encontra todos os seviços do CRUD de cliente, ela se encont
 
     http://localhost:8080
 
-Para iniciar o a api fora da IDE, basta executar o comando abaixo dentro da pasta discovery:
+Para iniciar o a api fora da IDE, basta executar o comando abaixo dentro da raiz do projeto:
  
     mvn spring-boot:run	
 	
